@@ -13,3 +13,8 @@ Notes:
 ------
 If there are not coincidences the script will works as well but indicanting there ir an error.
 The same will occurs if there is a problem with the connection to an ip address.
+
+What's next?
+------------
+- Give the user a prompt to insert the network address portion, so there is no need to pass it as a argument to the script.
+- Add more features
